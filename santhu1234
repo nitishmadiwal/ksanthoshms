@@ -1,5 +1,5 @@
 <html>
-    <body>
+    <body bg=color"bule">
           <h2>javascript is case sensevtie</h2>
           <p>try to change lastename to lastname. </p>
           <p id="demp"></p>
